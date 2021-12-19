@@ -2,7 +2,7 @@
 
 Welcome to github my friend
 
-Click <a href="./Linkedin_endorsment.js">here</a> to go to the script
+Click <a href="./Linkedin_endorsement.js">here</a> to go to the script
 <!--Images-->
 
 More details look up this video :
